@@ -10,4 +10,11 @@ This can be found in the software repository of most distributions.
 
 ## client-android
 
+Control the slides with volume keys.
+
+Key            |  Action
+---------------|----------
+Volume Up      |  Page Up
+Volume Down    |  Page Down
+
 The server IP needs to be specified manually.
